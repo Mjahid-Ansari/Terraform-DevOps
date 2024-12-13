@@ -1,3 +1,6 @@
+0. Create one Folder
+0. Inside that folder create one file (main.tf)
+
 0. Create IAM User and also Create Access-Key
 0. Copy Access-id and Secret-id 
 0.Configure AWS CLI Using
